@@ -1,15 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "world"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items": [
+    { "id": 1, "name": "Apples",  "price": "$2" },
+    { "id": 2, "name": "Peaches", "price": "$5" }
+  ] 
 }
